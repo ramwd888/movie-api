@@ -18,7 +18,7 @@ This project is a Node.js API that retrieves movie information for a specified y
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/movie-discovery-api.git
+git clone https://github.com/ramwd888/movie-api/
 
 2. Install dependencies:
 npm install
